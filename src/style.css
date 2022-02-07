@@ -1,0 +1,13 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+.submit {
+  padding: 10px 20px;
+}
+table{
+  border-spacing: 20px;
+}
+.content {
+  margin-top: 8%;
+}
